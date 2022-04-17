@@ -2,15 +2,24 @@
  * https://github.com/morhetz/gruvbox
  */
 :root {
-    --dark-black: #1d2021;
-    --black: #282828;
-    --bright-black: #928374;
+    /* main background */
+    --dark-black: #022635;
+    /* --dark-black: #1d2021; */
+    /* post background */
+    --black: #117488;
+    /* --black: #282828; */
+    /* aside text */
+    --bright-black: #75E6DA;
+    /* --bright-black: #928374; */
     
-    --white: #ebdbb2;
+    /* post and nav text and icons */
+    --white: #D4F1F4;
+    /* --white: #ebdbb2; */
     --bright-white: #fbf1c7;
     
     --red: #cc241d;
-    --green: #98971a;
+    --green: #FFAEBC;;
+    /* --green: #98971a; */
     --yellow: #d79921;
     --blue: #458588;
     --magenta: #b16286;
@@ -19,7 +28,8 @@
     --gray: #928374;
     
     --bright-red: #fb4934;
-    --bright-green: #b8bb26;
+    --bright-green: #F1FAFC;
+    /* --bright-green: #b8bb26; */
     --bright-yellow: #fabd2f;
     --bright-blue: #83a598;
     --bright-magenta: #d3869b;

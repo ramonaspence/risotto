@@ -2,6 +2,6 @@
     --bg: var(--black);
     --dark-bg: var(--dark-black);
     --bright-bg: var(--bright-black);
-    --fg: var(--white);
-    --bright-fg: var(--bright-white);
+    --fg: var(--green);
+    --bright-fg: var(--bright-green);
 }
